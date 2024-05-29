@@ -4,7 +4,7 @@ This is a simple script that encrypts/decrypts files in the .ZZT format. It can 
 
 ## Instructions
 
-1. **Download ZZT_Encrypter**: [Download ZZT_Encrypter.exe](https://github.com/aswedishkitty/ZZT_Encrypter/releases/tag/v1)
+1. **Download [ZZT_Encrypter.exe](https://github.com/aswedishkitty/ZZT_Encrypter/releases/tag/v1)**
    
 2. **Create a new folder**: Put ZZT_Encrypter.exe in a new folder on your computer.
 
