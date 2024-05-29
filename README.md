@@ -1,23 +1,17 @@
 # ZZT_Encrypter
+
 This is a simple script that encrypts/decrypts files in the .ZZT format. It can only handle text.
 
+## Instructions
 
-# Instructions
+1. **Download ZZT_Encrypter**: [Download ZZT_Encrypter.exe](https://github.com/aswedishkitty/ZZT_Encrypter/releases/tag/v1)
+   
+2. **Create a new folder**: Put ZZT_Encrypter.exe in a new folder on your computer.
 
-1. Download ZZT_Encrypter.exe
+3. **Run ZZT_Encrypter**: Double-click ZZT_Encrypter.exe to run it. The script will guide you on what to do next.
 
-3. Put it in a new folder
+## Note
 
-4. Run it and the script tells you what to do.
-
-
-
-
-
-# Note
-
-When decrypting, you do NOT need to put the extension .zzt after it.
-
-any file you encrypt will appear in the same directory as the .exe, and any file you wish to decrypt must be in the same directory as the .exe
-
-
+- When decrypting, you do NOT need to append the extension `.zzt` after the filename.
+- Any file you encrypt will appear in the same directory as ZZT_Encrypter.exe.
+- Any file you wish to decrypt must be in the same directory as ZZT_Encrypter.exe.
